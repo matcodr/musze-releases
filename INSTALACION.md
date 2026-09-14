@@ -80,11 +80,14 @@ No hace falta instalar nada más: todo lo que Musze necesita para leer, converti
 
 ## 5. Actualizar
 
-- Musze busca versiones nuevas **cada pocas horas y al abrir la app**. Cuando hay una, aparece **una franja encima de la biblioteca** con el botón **Descargar**.
-- **Descargar** abre en tu navegador el archivo correcto para tu sistema y tu edición. Instalas igual que la primera vez (arrastrar a Applications / ejecutar el instalador) y tu biblioteca queda intacta.
-- En Mac, después de reemplazar la app puede volver a pedir **clic derecho → Abrir** la primera vez, y macOS puede volver a pedir la contraseña del llavero.
-- Musze **nunca se actualiza solo**; siempre eres tú quien instala.
+- Musze busca versiones nuevas **cada pocas horas y al abrir la app**. Cuando hay una, aparece **una franja encima de la biblioteca** con el botón **Update** (actualizar).
+- **Update** descarga el archivo correcto para tu sistema y tu edición, lo comprueba (tamaño y suma de verificación contra lo que dice la versión publicada) y luego te ofrece **Restart now** (reiniciar ahora). Al pulsarlo, Musze se cierra, se reemplaza por la versión nueva y se vuelve a abrir en unos segundos. Tu biblioteca, playlists, carpetas y ajustes quedan intactos.
+- Musze **no descarga nada hasta que pulsas Update, y no se reinicia hasta que pulsas Restart now**. Si pulsas **Later** (luego), el archivo descargado se guarda y el mismo botón **Restart now** te espera en **Ajustes (Settings) → About → Updates**.
+- Si Musze **no puede reemplazarse a sí mismo** donde está (por ejemplo, lo abriste directamente desde la descarga en vez de desde Applications, o la carpeta Applications pertenece a otro usuario del Mac), la franja lo dice en una línea y ofrece **Download** (descargar) como antes: se abre en tu navegador e instalas igual que la primera vez.
+- Si una actualización desde la app falla, vuelve sola la versión anterior y la siguiente vez que aparezca la franja te dice qué pasó.
+- En Mac, después de una actualización puede volver a pedir **clic derecho → Abrir** la primera vez, y macOS puede volver a pedir la contraseña del llavero.
 - ¿Quieres buscar ahora, o apagar el aviso? **Ajustes (Settings) → About**: ahí están el interruptor de búsqueda automática y el botón **Check now**.
+- **Si tienes la versión 1.0.11 o anterior**, esta vez toca instalar a mano una última vez: esa versión todavía no sabe actualizarse sola. A partir de 1.0.12 son dos clics.
 
 ---
 
