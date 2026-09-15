@@ -8,13 +8,13 @@ stick that plays straight in CDJs and Engine OS players**.
 
 This repository holds the installers and the release notes. Nothing else.
 
-**The current release is 1.0.21.** ([What changed](https://github.com/matcodr/musze-releases/releases/latest))
+**The current release is 1.0.22.** ([What changed](https://github.com/matcodr/musze-releases/releases/latest))
 
 ## Two downloads
 
 **Musze Free** is the whole app with **no limits on anything**: a library of any size, the player
 and the deck, analysis, the Camelot wheel, genres, Your taste, More like this, For you, Render
-check, the Inbox and watched folders, Discover, **finding music by record label**, playlists **and
+check, the Inbox and **a sidebar section for your watched folder**, Discover, **finding music by record label**, playlists **and
 smart playlists**, Tidy, writing tags and artwork back into your files, clean copies and drag-out of
 any size, and **every export including the USB stick**. No account, no sign-up, nothing sent about you.
 
