@@ -18,9 +18,11 @@ check, the Inbox and **a sidebar section for your watched folder**, Discover, **
 smart playlists**, Tidy, writing tags and artwork back into your files, clean copies and drag-out of
 any size, and **every export including the USB stick**. No account, no sign-up, nothing sent about you.
 
-**Musze Pro** adds five things: **Sound Check** (the spectrogram, the verdicts and the on-demand
+**Musze Pro** adds six things: **Sound Check** (the spectrogram, the verdicts and the on-demand
 scan), **Duplicates**, **musical key names** beside the Camelot code (`8A · Am` rather than `8A`),
-the **FX strip**, and **Discogs / SoundCloud / YouTube** lookups with account connections. One
+the **FX strip**, **Correct gain** (a quiet file rewritten at the level of your crate, in its own
+format, the original kept beside it), and **Discogs / SoundCloud / YouTube** lookups with account
+connections. One
 purchase, no subscription. Details and price at [musze.app](https://musze.app).
 
 Both are the same app in the same place, so buying Pro is a drag-over upgrade: your library,
