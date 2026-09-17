@@ -1,6 +1,6 @@
 # Cómo instalar Musze
 
-Musze funciona en **Mac** (Apple Silicon o Intel) y en **Windows 10 / 11 de 64 bits**. Hay dos ediciones, **Musze Free** y **Musze Pro**, y las dos son la misma app: se instalan igual, usan la misma biblioteca y se pueden reemplazar una por otra sin perder nada.
+Musze funciona en **Mac** (Apple Silicon o Intel) y en **Windows 10 / 11 de 64 bits**. Hay **una sola descarga**, **Musze Free**, que es la app completa. **Musze Pro es una clave de licencia** que se pega dentro de esa misma app: no hay un segundo instalador, no se descarga nada otra vez y no se pierde nada.
 
 > La app está en inglés. En este instructivo, los nombres de los botones y de las pestañas van **en inglés entre paréntesis**, tal como los vas a ver en pantalla.
 
@@ -8,24 +8,21 @@ Musze funciona en **Mac** (Apple Silicon o Intel) y en **Windows 10 / 11 de 64 b
 
 ## 1. Elige tu descarga
 
-Hay seis archivos. Baja **uno solo**: el de tu edición y tu sistema.
+Hay tres archivos. Baja **uno solo**: el de tu sistema.
 
-| Sistema | Musze Free | Musze Pro |
-|---|---|---|
-| Mac con Apple Silicon (M1, M2, M3, M4…) | `Musze-Free-Silicon.dmg` | `Musze-Pro-Silicon.dmg` |
-| Mac con Intel (anteriores a 2020) | `Musze-Free-Intel.dmg` | `Musze-Pro-Intel.dmg` |
-| Windows 10 / 11 (64 bits) | `Musze-Free-Windows.exe` | `Musze-Pro-Windows.exe` |
+| Sistema | Archivo |
+|---|---|
+| Mac con Apple Silicon (M1, M2, M3, M4…) | `Musze-Free-Silicon.dmg` |
+| Mac con Intel (anteriores a 2020) | `Musze-Free-Intel.dmg` |
+| Windows 10 / 11 (64 bits) | `Musze-Free-Windows.exe` |
 
 ¿No sabes qué Mac tienes? Menú  → **Acerca de este Mac**. Si dice *Chip Apple M1/M2/M3/M4*, es Silicon; si dice *Procesador Intel*, es Intel.
 
 Enlaces directos (siempre apuntan a la versión más reciente):
 
-- Free · Mac Silicon → https://github.com/matcodr/musze-releases/releases/latest/download/Musze-Free-Silicon.dmg
-- Free · Mac Intel → https://github.com/matcodr/musze-releases/releases/latest/download/Musze-Free-Intel.dmg
-- Free · Windows → https://github.com/matcodr/musze-releases/releases/latest/download/Musze-Free-Windows.exe
-- Pro · Mac Silicon → https://github.com/matcodr/musze-releases/releases/latest/download/Musze-Pro-Silicon.dmg
-- Pro · Mac Intel → https://github.com/matcodr/musze-releases/releases/latest/download/Musze-Pro-Intel.dmg
-- Pro · Windows → https://github.com/matcodr/musze-releases/releases/latest/download/Musze-Pro-Windows.exe
+- Mac Silicon → https://github.com/matcodr/musze-releases/releases/latest/download/Musze-Free-Silicon.dmg
+- Mac Intel → https://github.com/matcodr/musze-releases/releases/latest/download/Musze-Free-Intel.dmg
+- Windows → https://github.com/matcodr/musze-releases/releases/latest/download/Musze-Free-Windows.exe
 
 No hace falta instalar nada más: todo lo que Musze necesita para leer, convertir, analizar e identificar tu música viene dentro de la app.
 
@@ -70,11 +67,19 @@ No hace falta instalar nada más: todo lo que Musze necesita para leer, converti
 
 ---
 
-## 4. Free y Pro: cómo cambiar de una a otra
+## 4. Pasar de Free a Pro
 
-- **Musze Pro no necesita ninguna clave.** Se desbloquea solo por ser la edición Pro.
-- **Pasar de Free a Pro:** baja el archivo Pro de tu sistema e instálalo **encima** de la Free (en Mac, arrastra de nuevo a Applications y acepta **Reemplazar**; en Windows, ejecuta el instalador Pro en la misma carpeta). Biblioteca, playlists, etiquetas y ajustes se conservan porque las dos ediciones usan la misma carpeta de datos.
-- **Si ya tienes una clave de licencia** de antes, pégala en la edición **Free**, en **Ajustes (Settings) → Sources**, en la sección **Licence** al final de esa pestaña. Ahí desbloquea Pro exactamente como siempre. La edición Pro no tiene dónde pegar una clave porque no la necesita.
+**Musze Pro es una clave**, no otra descarga.
+
+1. Compra la licencia en [musze.app](https://musze.app). La clave llega por correo con el recibo.
+2. En Musze, abre **Ajustes (Settings) → Sources** y baja hasta la sección **Licence**, al final de esa pestaña.
+3. Pega la clave y presiona **Activate**. Listo: las funciones Pro se desbloquean en la misma copia que ya tienes, sin descargar ni mover nada.
+
+Cualquier clave comprada antes sigue sirviendo, en Mac y en Windows.
+
+**Qué agrega Pro:** la tonalidad musical y la rueda Camelot, las medidas de volumen (LUFS), *More like this*, *Keep this folder tidy*, Sound Check, Duplicates, Correct gain, la sección de efectos (FX), el filtro y **Match Gain** del reproductor, el tema claro **Daylight**, y las búsquedas en **Discogs** y **SoundCloud**. Todo lo demás es gratis y sin límites: biblioteca de cualquier tamaño, reproductor, BPM, energía, géneros, Your taste, For you, carátulas y etiquetas, búsqueda en la web (incluido YouTube), playlists y playlists inteligentes, y **todas las exportaciones**, incluida la memoria USB para CDJ y Engine.
+
+**¿Ya tenías instalado un archivo `Musze-Pro-…`?** Esa copia sigue funcionando. Una vez te va a avisar, en la franja de arriba de la ventana, que las actualizaciones ahora llegan por Musze Free: baja la versión Free de esta misma página, instálala encima y pega tu clave.
 
 ---
 
@@ -103,5 +108,5 @@ No hace falta instalar nada más: todo lo que Musze necesita para leer, converti
 
 - **Mac:** abre el `.dmg` → arrastra Musze a Applications → **clic derecho → Abrir** la primera vez.
 - **Windows:** ejecuta el `.exe` → **Más información → Ejecutar de todas formas** → Instalar.
-- **Pro** no usa clave; se instala encima de Free sin perder nada.
+- **Pro** es una clave: **Ajustes (Settings) → Sources → Licence**, pegar y **Activate**.
 - **Ayuda:** hello@musze.app

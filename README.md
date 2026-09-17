@@ -8,26 +8,34 @@ stick that plays straight in CDJs and Engine OS players**.
 
 This repository holds the installers and the release notes. Nothing else.
 
-**The current release is 1.0.24.** ([What changed](https://github.com/matcodr/musze-releases/releases/latest))
+**The current release is 1.0.26.** ([What changed](https://github.com/matcodr/musze-releases/releases/latest))
 
-## Two downloads
+## One download, and a key
 
-**Musze Free** is the whole app with **no limits on anything**: a library of any size, the player
-and the deck, analysis, the Camelot wheel, genres, Your taste, More like this, For you, Render
-check, the Inbox and **a sidebar section for your watched folder**, Discover, **finding music by record label**, playlists **and
-smart playlists**, Tidy, writing tags and artwork back into your files, clean copies and drag-out of
-any size, and **every export including the USB stick**. No account, no sign-up, nothing sent about you.
+**Musze Free** is the app, and there is nothing else to download. A library of any size, the player
+and the deck, **BPM**, energy and the sound profile, genres, Your taste, For you, the Render check,
+the Inbox and **a sidebar section for your watched folder**, Discover and web search, **finding
+music by record label**, playlists **and smart playlists**, writing tags and artwork back into your
+files, clean copies and drag-out of any size, and **every export including the USB stick**. No
+account, no sign-up, nothing sent about you.
 
-**Musze Pro** adds six things: **Sound Check** (the spectrogram, the verdicts and the on-demand
-scan), **Duplicates**, **musical key names** beside the Camelot code (`8A · Am` rather than `8A`),
-the **FX strip**, **Correct gain** (a quiet file rewritten at the level of your crate, in its own
-format, the original kept beside it), and **Discogs / SoundCloud / YouTube** lookups with account
-connections. One
-purchase, no subscription. Details and price at [musze.app](https://musze.app).
+**Musze Pro is a licence key**, not a second installer. Buy one, open **Settings → Sources →
+Licence** in the copy you already have, paste it in, and it unlocks:
 
-Both are the same app in the same place, so buying Pro is a drag-over upgrade: your library,
-playlists, tags and settings are all kept. A licence key bought earlier still works — paste it into
-the **free** build, Settings → Sources → Licence.
+- **Key and the Camelot wheel** — the musical key of every track, the Key column, key rules in
+  smart playlists, and the key written into your files and exports
+- **Loudness** — integrated loudness, loudness range and true peak
+- **More like this** — what mixes with a record, and what sounds like it
+- **Keep this folder tidy** — names, tags and artwork written into a folder, with a preview and an undo
+- **Sound Check** — the spectrogram, the verdicts and the on-demand scan
+- **Duplicates**
+- **Correct gain** — a quiet file rewritten at the level of your crate, in its own format, the original kept beside it
+- **The FX strip**, the deck's **master filter**, **Match Gain** and the **Daylight** theme
+- **Discogs** and **SoundCloud** lookups, with account connections
+
+One purchase, no subscription. Details and price at [musze.app](https://musze.app). Nothing is
+re-downloaded and nothing moves: the key unlocks the copy on your machine, and every key ever
+bought still works.
 
 ## Download
 
@@ -36,19 +44,23 @@ The version is not in the file name, so these links never change.
 
 **macOS**
 
-- `Musze-Free-Silicon.dmg` / `Musze-Pro-Silicon.dmg` — Apple Silicon (M1, M2, M3, M4)
-- `Musze-Free-Intel.dmg` / `Musze-Pro-Intel.dmg` — Intel Macs
+- `Musze-Free-Silicon.dmg` — Apple Silicon (M1, M2, M3, M4)
+- `Musze-Free-Intel.dmg` — Intel Macs
 
 Not sure which? Apple menu → About This Mac: *"Chip: Apple …"* means Silicon, *"Processor: Intel …"*
 means Intel.
 
 **Windows**
 
-- `Musze-Free-Windows.exe` / `Musze-Pro-Windows.exe` — 64-bit Windows 10 and 11
+- `Musze-Free-Windows.exe` — 64-bit Windows 10 and 11
 
 Two older names, `Musze-arm64.dmg` and `Musze-x64.dmg`, are still attached to every release as
 copies of the free Mac builds, because that is what the download buttons on musze.app point at
 today.
+
+**Already have a Pro installer?** Earlier releases carried `Musze-Pro-…` files. That copy keeps
+working and tells you once, in the strip at the top of the window, that updates now come through
+Musze Free: download the free one above, drag it over, and paste your key.
 
 ## Install
 
