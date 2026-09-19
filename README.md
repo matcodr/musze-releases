@@ -8,7 +8,7 @@ stick that plays straight in CDJs and Engine OS players**.
 
 This repository holds the installers and the release notes. Nothing else.
 
-**The current release is 1.0.35.** ([What changed](https://github.com/matcodr/musze-releases/releases/latest))
+**The current release is 1.0.36.** ([What changed](https://github.com/matcodr/musze-releases/releases/latest))
 
 ## One download, and a key
 
