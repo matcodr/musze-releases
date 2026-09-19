@@ -8,7 +8,7 @@ stick that plays straight in CDJs and Engine OS players**.
 
 This repository holds the installers and the release notes. Nothing else.
 
-**The current release is 1.0.26.** ([What changed](https://github.com/matcodr/musze-releases/releases/latest))
+**The current release is 1.0.35.** ([What changed](https://github.com/matcodr/musze-releases/releases/latest))
 
 ## One download, and a key
 
@@ -18,6 +18,11 @@ the Inbox and **a sidebar section for your watched folder**, Discover and web se
 music by record label**, playlists **and smart playlists**, writing tags and artwork back into your
 files, clean copies and drag-out of any size, and **every export including the USB stick**. No
 account, no sign-up, nothing sent about you.
+
+Since **1.0.33** it also reads the **record label and catalogue number** out of FLAC, WAV and AIFF
+files properly — most shops write those into a tag Musze was not looking at, so a crate bought record
+by record used to look as though it had no labels at all. Nothing is re-analysed: the labels fill in
+as your files are read.
 
 **Musze Pro is a licence key**, not a second installer. Buy one, open **Settings → Sources →
 Licence** in the copy you already have, paste it in, and it unlocks:
