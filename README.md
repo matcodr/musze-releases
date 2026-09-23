@@ -8,7 +8,7 @@ stick that plays straight in CDJs and Engine OS players**.
 
 This repository holds the installers and the release notes. Nothing else.
 
-**The current release is 1.0.36.** ([What changed](https://github.com/matcodr/musze-releases/releases/latest))
+**The current release is 1.0.37.** ([What changed](https://github.com/matcodr/musze-releases/releases/latest))
 
 ## One download, and a key
 
@@ -23,6 +23,13 @@ Since **1.0.33** it also reads the **record label and catalogue number** out of 
 files properly — most shops write those into a tag Musze was not looking at, so a crate bought record
 by record used to look as though it had no labels at all. Nothing is re-analysed: the labels fill in
 as your files are read.
+
+**1.0.37** is about the numbers being right. The list you are looking at is now the list that plays
+— if the table is sorted by tempo, that is the order it plays in, which it was not before. Shuffle
+plays every track once before it repeats any of them. A tempo that reads at half or double the tag's
+is marked as the error it is, with the fix one click away. And the keys **Mixed In Key** writes are
+readable at last: it stores them in its own format, and Musze was keeping them as an unreadable blob
+and overwriting them with its own reading — so if you use that tool, your keys are back.
 
 **Musze Pro is a licence key**, not a second installer. Buy one, open **Settings → Sources →
 Licence** in the copy you already have, paste it in, and it unlocks:
